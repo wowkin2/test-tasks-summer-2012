@@ -228,7 +228,7 @@ int sCmp(char *str1, char *str2)
 void Find(Book **p, char c, char *f)
 {
         char *s;
-        bool found;
+        bool found = false;
         cout << endl << endl << "Found ('" << f << "'): ";
         for(int i=0; i < NUMBER; i++)
         {
