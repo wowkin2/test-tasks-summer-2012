@@ -1,0 +1,20 @@
+﻿Построение начато 08.07.2012 23:09:08.
+     1>Проект "D:\Проекти і чтиво\GL Base Camp\Task5\Lib\mylib\mylib\mylib.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\mylib.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         e:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\mylib.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt f1.cpp
+         f1.cpp
+       Lib:
+         e:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"D:\Проекти і чтиво\GL Base Camp\Task5\Lib\mylib\Debug\mylib.lib" /NOLOGO Debug\f1.obj
+         Debug\stdafx.obj
+         mylib.vcxproj -> D:\Проекти і чтиво\GL Base Camp\Task5\Lib\mylib\Debug\mylib.lib
+       FinalizeBuildStatus:
+         Файл "Debug\mylib.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\mylib.lastbuildstate".
+     1>Построение проекта "D:\Проекти і чтиво\GL Base Camp\Task5\Lib\mylib\mylib\mylib.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.50

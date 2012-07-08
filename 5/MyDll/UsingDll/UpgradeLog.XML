@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="useDLL">
+</Property><Property Name="Solution File" Value="C:\temp\-dll\MyDll\UsingDll\useDLL.sln">
+</Property><Property Name="User Options File" Value="C:\temp\-dll\MyDll\UsingDll\useDLL.suo">
+</Property><Property Name="Date" Value="Friday, June 22, 2012">
+</Property><Property Name="Time" Value="11:21 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="useDLL.sln" Description="File successfully backed up as C:\temp\-dll\MyDll\UsingDll\useDLL.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="useDLL.suo" Description="File successfully backed up as C:\temp\-dll\MyDll\UsingDll\useDLL.suo.old">
+</Event><Event ErrorLevel="0" Project="useDLL" Source="useDLL\useDLL.vcproj" Description="Converting project file 'C:\temp\-dll\MyDll\UsingDll\useDLL\useDLL.vcproj'.">
+</Event><Event ErrorLevel="1" Project="useDLL" Source="useDLL\useDLL.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="1" Project="useDLL" Source="useDLL\useDLL.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="useDLL" Source="useDLL\useDLL.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="useDLL" Source="useDLL\useDLL.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="useDLL" Source="useDLL\useDLL.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="useDLL" Source="useDLL\useDLL.vcproj" Description="Done converting to new project file 'C:\temp\-dll\MyDll\UsingDll\useDLL\useDLL.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="useDLL" Source="useDLL\useDLL.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="useDLL.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="useDLL.sln" Description="Converted">
+</Event></UpgradeLog>

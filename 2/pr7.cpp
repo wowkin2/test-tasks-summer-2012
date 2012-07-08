@@ -167,11 +167,11 @@ void Remove(Book **p)
 {
         for(int i=0; i<NUMBER; i++)
         {
-                delete p[i]->Author;
-                delete p[i]->BookName;
-                delete p[i]->Publisher;
-                delete p[i]->Year;
-                delete p[i];
+                free(p[i]->Author);
+                free(p[i]->BookName);
+                free(p[i]->Publisher);
+                free(p[i]->Year);
+                free(p[i]);
         }
 }
 int sLen(const char *s)
