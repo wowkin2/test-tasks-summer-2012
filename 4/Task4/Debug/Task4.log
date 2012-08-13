@@ -1,0 +1,28 @@
+﻿Построение начато 13.08.2012 15:01:16.
+     1>Проект "D:\Проекти і чтиво\GL Base Camp\Task4\Task4\Task4\Task4.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Task4.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         e:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Task4.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Task4.cpp
+         Task4.cpp
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         e:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Проекти і чтиво\GL Base Camp\Task4\Task4\Debug\Task4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Task4.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Проекти і чтиво\GL Base Camp\Task4\Task4\Debug\Task4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Проекти і чтиво\GL Base Camp\Task4\Task4\Debug\Task4.lib" /MACHINE:X86 Debug\Task4.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\Task4.obj
+       Manifest:
+         E:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Task4.exe.embed.manifest" /manifest Debug\Task4.exe.intermediate.manifest
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         Task4.vcxproj -> D:\Проекти і чтиво\GL Base Camp\Task4\Task4\Debug\Task4.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Task4.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Task4.lastbuildstate".
+     1>Построение проекта "D:\Проекти і чтиво\GL Base Camp\Task4\Task4\Task4\Task4.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.76
