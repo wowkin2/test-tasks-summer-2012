@@ -1,0 +1,36 @@
+﻿Построение начато 25.08.2012 0:13:31.
+     1>Проект "D:\Проекти і чтиво\GL Base Camp\Task8\Pr3FindFile\Pr3FindFile\Pr3FindFile.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Pr3FindFile.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         e:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Pr3FindFile.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Pr3FindFile.cpp
+         Pr3FindFile.cpp
+     1>d:\проекти і чтиво\gl base camp\task8\pr3findfile\pr3findfile\pr3findfile.cpp(28): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\wchar.h(981): см. объявление "wcscat"
+     1>d:\проекти і чтиво\gl base camp\task8\pr3findfile\pr3findfile\pr3findfile.cpp(29): warning C4996: 'wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\wchar.h(1018): см. объявление "wcstok"
+     1>d:\проекти і чтиво\gl base camp\task8\pr3findfile\pr3findfile\pr3findfile.cpp(30): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\wchar.h(981): см. объявление "wcscat"
+     1>d:\проекти і чтиво\gl base camp\task8\pr3findfile\pr3findfile\pr3findfile.cpp(31): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\wchar.h(981): см. объявление "wcscat"
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         e:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Проекти і чтиво\GL Base Camp\Task8\Pr3FindFile\Debug\Pr3FindFile.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Pr3FindFile.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Проекти і чтиво\GL Base Camp\Task8\Pr3FindFile\Debug\Pr3FindFile.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Проекти і чтиво\GL Base Camp\Task8\Pr3FindFile\Debug\Pr3FindFile.lib" /MACHINE:X86 Debug\Pr3FindFile.exe.embed.manifest.res
+         Debug\Pr3FindFile.obj
+         Debug\stdafx.obj
+       Manifest:
+         E:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Pr3FindFile.exe.embed.manifest" /manifest Debug\Pr3FindFile.exe.intermediate.manifest
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         Pr3FindFile.vcxproj -> D:\Проекти і чтиво\GL Base Camp\Task8\Pr3FindFile\Debug\Pr3FindFile.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Pr3FindFile.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Pr3FindFile.lastbuildstate".
+     1>Построение проекта "D:\Проекти і чтиво\GL Base Camp\Task8\Pr3FindFile\Pr3FindFile\Pr3FindFile.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:03.50
